@@ -14,6 +14,6 @@ public class BatallaArena {
 		jugador1.atacar();
 		jugador2.defender();
 		jugador2.atacar();
-		jugador1.atacar();
+		jugador1.defender();
 	}
 }
